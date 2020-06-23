@@ -1,0 +1,3 @@
+[submodule "Native/Assembler"]
+	path = Native/Assembler
+	url = https://github.com/dlunch/Assembler.git
